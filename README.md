@@ -1,5 +1,5 @@
 # SpamClassifier
-#Overview
+# Overview
 
 This project aims to classify messsages as spam or non-spam (ham) using two popular machine learning algorithms: Naive Bayes and Random Forest.
 
